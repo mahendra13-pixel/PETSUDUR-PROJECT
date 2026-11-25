@@ -1,23 +1,4 @@
-﻿# PETSUDUR — Frontend
-
-React frontend for the **PETSUDUR** project, developed during the **Python training period** at **Sipalaya InfoTech**.
-
-## Tech Stack
-
-- React
-- (add: Vite / Create React App, Tailwind, Axios, React Router, etc.)
-
-## Getting Started
-
-`ash
-npm install
-npm run dev
-
-### 3. Create LICENSE (proprietary — matches your previous repos)
-
-`powershell
-@"
-Copyright (c) 2026 Mahendra Kunwar
+﻿Copyright (c) 2026 Mahendra Kunwar
 
 All Rights Reserved.
 
